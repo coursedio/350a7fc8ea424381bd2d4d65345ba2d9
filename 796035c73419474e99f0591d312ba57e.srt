@@ -1,0 +1,433 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:03.002
+- Do you know how to talk to AI?
+
+2
+00:00:03.002 --> 00:00:06.000
+The name for this is called Prompt Engineering
+
+3
+00:00:06.000 --> 00:00:09.003
+and this is a key element in generative AI applications
+
+4
+00:00:09.003 --> 00:00:12.000
+and one the business leaders need to be aware of
+
+5
+00:00:12.000 --> 00:00:15.003
+if they want to maximize the potential of this technology.
+
+6
+00:00:15.003 --> 00:00:17.001
+If you're less familiar with it,
+
+7
+00:00:17.001 --> 00:00:19.005
+prompt engineering is the process of designing
+
+8
+00:00:19.005 --> 00:00:23.003
+how to ask AI to generate the desired output you want.
+
+9
+00:00:23.003 --> 00:00:24.007
+One of the biggest challenges
+
+10
+00:00:24.007 --> 00:00:28.005
+in generative AI models is controlling the outputs.
+
+11
+00:00:28.005 --> 00:00:30.009
+Business leaders like yourself need to be sure
+
+12
+00:00:30.009 --> 00:00:34.001
+that the AI models they're using are generating useful,
+
+13
+00:00:34.001 --> 00:00:36.007
+accurate, and relevant results.
+
+14
+00:00:36.007 --> 00:00:38.009
+That's where prompt engineering comes in.
+
+15
+00:00:38.009 --> 00:00:41.003
+By carefully crafting prompts,
+
+16
+00:00:41.003 --> 00:00:43.002
+you can help the AI model understand
+
+17
+00:00:43.002 --> 00:00:45.000
+what you're asking it to do
+
+18
+00:00:45.000 --> 00:00:48.005
+and encourage it to produce the most useful results for you.
+
+19
+00:00:48.005 --> 00:00:51.004
+If you don't know how to enter the right prompt,
+
+20
+00:00:51.004 --> 00:00:54.005
+you probably won't get the right response.
+
+21
+00:00:54.005 --> 00:00:57.009
+The best prompts tend to be specific, nuanced
+
+22
+00:00:57.009 --> 00:01:00.005
+and extremely well articulated.
+
+23
+00:01:00.005 --> 00:01:01.008
+Check out the simple example
+
+24
+00:01:01.008 --> 00:01:04.002
+about explaining quantum physics.
+
+25
+00:01:04.002 --> 00:01:08.001
+I can use the prompt to simply ask, what is quantum physics?
+
+26
+00:01:08.001 --> 00:01:10.005
+And the result will be pretty generic and standard,
+
+27
+00:01:10.005 --> 00:01:12.005
+with a short paragraph.
+
+28
+00:01:12.005 --> 00:01:15.009
+But I can take my prompt to the next level
+
+29
+00:01:15.009 --> 00:01:18.005
+and ask it to write it in a certain length,
+
+30
+00:01:18.005 --> 00:01:21.001
+in a certain style, in this case,
+
+31
+00:01:21.001 --> 00:01:24.005
+ask it to write it for my 10 year old kid
+
+32
+00:01:24.005 --> 00:01:25.008
+with a certain structure.
+
+33
+00:01:25.008 --> 00:01:28.008
+I also ask that to write it as a passionate science teacher
+
+34
+00:01:28.008 --> 00:01:30.007
+who're trying to make it fun, engaging,
+
+35
+00:01:30.007 --> 00:01:32.005
+and easy to understand.
+
+36
+00:01:32.005 --> 00:01:34.005
+Notice that I use the uppercase letters
+
+37
+00:01:34.005 --> 00:01:36.007
+to indicate the importance of fun.
+
+38
+00:01:36.007 --> 00:01:39.008
+And lastly, I ask it to avoid using jargon
+
+39
+00:01:39.008 --> 00:01:43.006
+or listing too many nouns and adjectives.
+
+40
+00:01:43.006 --> 00:01:45.001
+Notice the difference.
+
+41
+00:01:45.001 --> 00:01:47.005
+The second prompt created a truly unique
+
+42
+00:01:47.005 --> 00:01:49.005
+and engaging explanation.
+
+43
+00:01:49.005 --> 00:01:53.003
+This prompt nuances can apply across many use cases.
+
+44
+00:01:53.003 --> 00:01:55.007
+Think of a healthcare company that might want to use AI
+
+45
+00:01:55.007 --> 00:01:58.004
+to synthesize information from medical workers
+
+46
+00:01:58.004 --> 00:02:00.009
+and then identify patterns in health data.
+
+47
+00:02:00.009 --> 00:02:03.009
+By designing careful prompts they can extract
+
+48
+00:02:03.009 --> 00:02:07.004
+a specific data they're after from very large data sets.
+
+49
+00:02:07.004 --> 00:02:08.009
+In the prompt themself,
+
+50
+00:02:08.009 --> 00:02:11.008
+they might want to explicitly call out their unique protocol
+
+51
+00:02:11.008 --> 00:02:14.001
+for how to extract the data
+
+52
+00:02:14.001 --> 00:02:17.005
+in order to put more or less emphasis on recent research
+
+53
+00:02:17.005 --> 00:02:19.005
+as the basis for the response.
+
+54
+00:02:19.005 --> 00:02:21.002
+Those prompt nuances can determine
+
+55
+00:02:21.002 --> 00:02:23.004
+the success of them using AI.
+
+56
+00:02:23.004 --> 00:02:26.001
+Another example is customer experience.
+
+57
+00:02:26.001 --> 00:02:29.006
+A company might want to augment customer service inquiries
+
+58
+00:02:29.006 --> 00:02:33.001
+with the right customer metadata into the prompt
+
+59
+00:02:33.001 --> 00:02:35.008
+to generate accurate and more personalized responses
+
+60
+00:02:35.008 --> 00:02:37.003
+to customer queries.
+
+61
+00:02:37.003 --> 00:02:39.003
+They can even share in the prompt their customer's
+
+62
+00:02:39.003 --> 00:02:42.004
+unique guidelines on how to handle certain edge cases,
+
+63
+00:02:42.004 --> 00:02:45.002
+with a step-by-step instructions about what to do
+
+64
+00:02:45.002 --> 00:02:47.000
+and what not to do.
+
+65
+00:02:47.000 --> 00:02:48.008
+Ultimately, prompt engineering
+
+66
+00:02:48.008 --> 00:02:51.005
+is about providing the AI model with the right context
+
+67
+00:02:51.005 --> 00:02:55.003
+and guidance in order to produce the desired results.
+
+68
+00:02:55.003 --> 00:02:57.004
+There are many nuances to it,
+
+69
+00:02:57.004 --> 00:03:00.008
+and simply entering a quick prompt will not take your AI
+
+70
+00:03:00.008 --> 00:03:02.006
+to its full potential.
+
+71
+00:03:02.006 --> 00:03:05.001
+It takes several tries and iterations
+
+72
+00:03:05.001 --> 00:03:08.006
+as you'll see for yourself once you play with it.
+
+73
+00:03:08.006 --> 00:03:10.005
+It's also valuable to note that prompt engineering
+
+74
+00:03:10.005 --> 00:03:13.004
+is connected to the concept called shot learning,
+
+75
+00:03:13.004 --> 00:03:16.008
+zero-shot, one-shot and few-shot learning
+
+76
+00:03:16.008 --> 00:03:20.008
+refers to situations where AI is able to perform new tasks
+
+77
+00:03:20.008 --> 00:03:23.002
+with very limited learning,
+
+78
+00:03:23.002 --> 00:03:26.000
+even zero learning, basically no data.
+
+79
+00:03:26.000 --> 00:03:28.000
+Prompt engineering can be helpful in shot learning
+
+80
+00:03:28.000 --> 00:03:31.003
+because a well designed prompt can guide the AI model
+
+81
+00:03:31.003 --> 00:03:33.000
+in the right direction,
+
+82
+00:03:33.000 --> 00:03:35.005
+even with limited data to learn from.
+
+83
+00:03:35.005 --> 00:03:37.007
+For example, consider an AI model
+
+84
+00:03:37.007 --> 00:03:39.008
+that is being used to categorize images,
+
+85
+00:03:39.008 --> 00:03:41.009
+like classifying types of birds.
+
+86
+00:03:41.009 --> 00:03:44.004
+By designing a prompt that gives clear instructions
+
+87
+00:03:44.004 --> 00:03:47.006
+about how to identify birds by using specific criteria
+
+88
+00:03:47.006 --> 00:03:51.001
+such as their beak shapes or feather colors,
+
+89
+00:03:51.001 --> 00:03:53.006
+you can help make sure the AI understands
+
+90
+00:03:53.006 --> 00:03:55.008
+what is it being asked to do
+
+91
+00:03:55.008 --> 00:03:59.004
+and then categorize those birds images correctly.
+
+92
+00:03:59.004 --> 00:04:01.004
+As you probably understand by now,
+
+93
+00:04:01.004 --> 00:04:03.006
+prompt engineering serves as a critical interface
+
+94
+00:04:03.006 --> 00:04:06.000
+between the human and the machine,
+
+95
+00:04:06.000 --> 00:04:08.000
+and by optimizing the prompts,
+
+96
+00:04:08.000 --> 00:04:10.006
+you can make sure that the AI model is generating outputs
+
+97
+00:04:10.006 --> 00:04:14.000
+that are truly useful and relevant to your business.
+
+98
+00:04:14.000 --> 00:04:16.007
+It's really important that you try it for yourself.
+
+99
+00:04:16.007 --> 00:04:19.003
+Take a specific task like writing a marketing brief
+
+100
+00:04:19.003 --> 00:04:21.007
+for your company, using GPT Chat
+
+101
+00:04:21.007 --> 00:04:25.005
+and spend at least 30 minutes trying to optimize the prompt.
+
+102
+00:04:25.005 --> 00:04:28.009
+Get as close as possible to your desired outcome.
+
+103
+00:04:28.009 --> 00:04:31.009
+Experiment with the language, the constraints you choose,
+
+104
+00:04:31.009 --> 00:04:33.004
+the structure you write in
+
+105
+00:04:33.004 --> 00:04:35.008
+and the examples you want it to learn from.
+
+106
+00:04:35.008 --> 00:04:36.008
+Play with it
+
+107
+00:04:36.008 --> 00:04:39.003
+and you'll quickly see the difference in the results
+
+108
+00:04:39.003 --> 00:04:40.006
+and have some fun with it.
