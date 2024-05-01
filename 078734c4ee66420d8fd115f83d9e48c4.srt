@@ -1,0 +1,225 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:03.000
+- The most important aspect of every project,
+
+2
+00:00:03.000 --> 00:00:06.001
+especially AI projects, is the objective.
+
+3
+00:00:06.001 --> 00:00:07.008
+In the case of AI,
+
+4
+00:00:07.008 --> 00:00:10.003
+this is about your algorithm's objective.
+
+5
+00:00:10.003 --> 00:00:13.009
+What is your goal and what do you want to accomplish?
+
+6
+00:00:13.009 --> 00:00:14.007
+It's important to know
+
+7
+00:00:14.007 --> 00:00:18.007
+that AI ultimately learns to achieve a certain objective.
+
+8
+00:00:18.007 --> 00:00:19.009
+Think for a moment.
+
+9
+00:00:19.009 --> 00:00:22.003
+What's your objective?
+
+10
+00:00:22.003 --> 00:00:24.009
+Your algorithms objective should ultimately ladder up
+
+11
+00:00:24.009 --> 00:00:28.008
+to your business goal, and as we discussed before,
+
+12
+00:00:28.008 --> 00:00:31.009
+when it comes to AI, the options are vast.
+
+13
+00:00:31.009 --> 00:00:33.003
+This is why it's necessary to start
+
+14
+00:00:33.003 --> 00:00:36.000
+with what you're trying to accomplish as a business,
+
+15
+00:00:36.000 --> 00:00:39.006
+and not with what is AI capable of doing?
+
+16
+00:00:39.006 --> 00:00:42.008
+For example, in industries that rely heavily on creativity
+
+17
+00:00:42.008 --> 00:00:46.006
+and novelty, you can use it to come up with new ideas.
+
+18
+00:00:46.006 --> 00:00:50.003
+You can generate personalized textbooks in education.
+
+19
+00:00:50.003 --> 00:00:52.007
+You can generate new levels in game design.
+
+20
+00:00:52.007 --> 00:00:56.002
+You can even create new clothing styles in fashion,
+
+21
+00:00:56.002 --> 00:00:58.002
+but in industries that rely heavily
+
+22
+00:00:58.002 --> 00:01:00.005
+on processes and workflows,
+
+23
+00:01:00.005 --> 00:01:02.006
+you can use it to automate tasks,
+
+24
+00:01:02.006 --> 00:01:04.009
+streamline decision-making,
+
+25
+00:01:04.009 --> 00:01:07.006
+and personalize a customer journey.
+
+26
+00:01:07.006 --> 00:01:08.004
+This can range
+
+27
+00:01:08.004 --> 00:01:10.003
+from B2B software companies that manage
+
+28
+00:01:10.003 --> 00:01:13.008
+complex backend flows to medical companies looking
+
+29
+00:01:13.008 --> 00:01:16.002
+to simplify their patient experience.
+
+30
+00:01:16.002 --> 00:01:18.002
+As we'll discuss later in this course,
+
+31
+00:01:18.002 --> 00:01:21.004
+AI can power those end-to-end workflows for you.
+
+32
+00:01:21.004 --> 00:01:25.008
+At LinkedIn, we often look at AI as the matchmaker,
+
+33
+00:01:25.008 --> 00:01:29.006
+helping connect job seekers with their dream companies,
+
+34
+00:01:29.006 --> 00:01:32.008
+or brands with their buyers, or connecting communities
+
+35
+00:01:32.008 --> 00:01:35.003
+of professionals looking to learn from each other.
+
+36
+00:01:35.003 --> 00:01:39.009
+Now, regenerative AI models, you can take that even further,
+
+37
+00:01:39.009 --> 00:01:42.003
+offering AI as a copilot for professionals
+
+38
+00:01:42.003 --> 00:01:44.006
+to help them accomplish their explorations,
+
+39
+00:01:44.006 --> 00:01:47.009
+all with the mission of connecting professionals
+
+40
+00:01:47.009 --> 00:01:50.003
+to make them more productive and successful.
+
+41
+00:01:50.003 --> 00:01:52.001
+In addition, a key part
+
+42
+00:01:52.001 --> 00:01:54.003
+of our objective is to ensure
+
+43
+00:01:54.003 --> 00:01:56.007
+we create a more equitable economic future
+
+44
+00:01:56.007 --> 00:01:58.008
+for every professional.
+
+45
+00:01:58.008 --> 00:02:00.004
+That's why equity is a big part
+
+46
+00:02:00.004 --> 00:02:03.004
+of how we define our algorithm's objective.
+
+47
+00:02:03.004 --> 00:02:06.001
+If you haven't made note of your business objective,
+
+48
+00:02:06.001 --> 00:02:07.008
+make sure you pause this video
+
+49
+00:02:07.008 --> 00:02:10.005
+and write it down before moving to the next one.
+
+50
+00:02:10.005 --> 00:02:14.001
+And don't try to get it perfect, just write a few ideas.
+
+51
+00:02:14.001 --> 00:02:16.000
+Start with what challenges are most important
+
+52
+00:02:16.000 --> 00:02:18.003
+for your business to solve over the next few years.
+
+53
+00:02:18.003 --> 00:02:21.001
+You can always revisit the objective later.
+
+54
+00:02:21.001 --> 00:02:23.005
+As we go through the course,
+
+55
+00:02:23.005 --> 00:02:24.006
+think of how the lessons
+
+56
+00:02:24.006 --> 00:02:27.004
+and takeaways connect back to your objective.
