@@ -1,0 +1,341 @@
+WEBVTT
+
+1
+00:00:00.007 --> 00:00:02.008
+- AI has the potential to impact
+
+2
+00:00:02.008 --> 00:00:05.000
+a wide range of processes and products
+
+3
+00:00:05.000 --> 00:00:07.005
+across a variety of industries.
+
+4
+00:00:07.005 --> 00:00:10.000
+Without a doubt, many of those implications
+
+5
+00:00:10.000 --> 00:00:12.007
+can be relevant for you and your company
+
+6
+00:00:12.007 --> 00:00:14.006
+from productivity and efficiency,
+
+7
+00:00:14.006 --> 00:00:17.005
+basically how can you do more with less using AI,
+
+8
+00:00:17.005 --> 00:00:19.005
+to product innovation, how can you take
+
+9
+00:00:19.005 --> 00:00:22.000
+your product experience to the next level.
+
+10
+00:00:22.000 --> 00:00:24.006
+When we think about productivity and efficiency,
+
+11
+00:00:24.006 --> 00:00:27.009
+workflow automation is a good place to start.
+
+12
+00:00:27.009 --> 00:00:31.000
+AI can help streamline tasks across the company.
+
+13
+00:00:31.000 --> 00:00:33.005
+These tasks do not have to be specific and basic.
+
+14
+00:00:33.005 --> 00:00:36.001
+In fact, they can be pretty complex.
+
+15
+00:00:36.001 --> 00:00:38.003
+Let's take reports as an example.
+
+16
+00:00:38.003 --> 00:00:41.001
+Using the right prompt in the workflow,
+
+17
+00:00:41.001 --> 00:00:43.005
+AI can play a key role in creating,
+
+18
+00:00:43.005 --> 00:00:46.004
+integrating, analyzing, and summarizing reports
+
+19
+00:00:46.004 --> 00:00:48.009
+into insights and action items,
+
+20
+00:00:48.009 --> 00:00:51.002
+not only saving time and resources,
+
+21
+00:00:51.002 --> 00:00:53.009
+but also reducing errors and inconsistencies.
+
+22
+00:00:53.009 --> 00:00:56.007
+Next, when coupled with automation,
+
+23
+00:00:56.007 --> 00:01:00.002
+AI can start facilitating that end to end experience.
+
+24
+00:01:00.002 --> 00:01:02.005
+In our customer service example,
+
+25
+00:01:02.005 --> 00:01:06.001
+imagine being able to automate the entire workflow
+
+26
+00:01:06.001 --> 00:01:09.006
+starting from answering routine customer inquiries,
+
+27
+00:01:09.006 --> 00:01:12.003
+then automatically logging tickets,
+
+28
+00:01:12.003 --> 00:01:15.004
+finally working towards resolving the inquiries,
+
+29
+00:01:15.004 --> 00:01:18.006
+and completely handling the back and forth for the customer.
+
+30
+00:01:18.006 --> 00:01:21.000
+That's pretty remarkable, right?
+
+31
+00:01:21.000 --> 00:01:24.001
+When you're able to combine tasks and workflows
+
+32
+00:01:24.001 --> 00:01:26.003
+within a self-directed production,
+
+33
+00:01:26.003 --> 00:01:27.008
+you can dramatically enhance
+
+34
+00:01:27.008 --> 00:01:30.005
+your organizational productivity.
+
+35
+00:01:30.005 --> 00:01:33.009
+This can be applied to many of your routine operations
+
+36
+00:01:33.009 --> 00:01:36.006
+from finance to marketing to sales
+
+37
+00:01:36.006 --> 00:01:38.004
+to product development.
+
+38
+00:01:38.004 --> 00:01:41.003
+And to make things even more powerful,
+
+39
+00:01:41.003 --> 00:01:43.003
+you can use AI to play a critical role
+
+40
+00:01:43.003 --> 00:01:46.005
+in enhancing your own data and analytics capabilities
+
+41
+00:01:46.005 --> 00:01:49.007
+by integrating data reports from multiple sources,
+
+42
+00:01:49.007 --> 00:01:52.004
+creating a new, more comprehensive data set,
+
+43
+00:01:52.004 --> 00:01:53.009
+generating synthetic data,
+
+44
+00:01:53.009 --> 00:01:56.002
+which can mimic the properties of real data
+
+45
+00:01:56.002 --> 00:01:59.004
+without exposing any sensitive information,
+
+46
+00:01:59.004 --> 00:02:01.008
+and summarizing large data sets,
+
+47
+00:02:01.008 --> 00:02:05.008
+making it easier to digest and understand the key findings.
+
+48
+00:02:05.008 --> 00:02:09.000
+Essentially, you can train AI with your specific workflow
+
+49
+00:02:09.000 --> 00:02:11.001
+and decision-making process
+
+50
+00:02:11.001 --> 00:02:15.003
+and incorporate it as the brain of your operation.
+
+51
+00:02:15.003 --> 00:02:18.009
+These capabilities are not only for internal processes.
+
+52
+00:02:18.009 --> 00:02:21.007
+If your product or service includes workflows,
+
+53
+00:02:21.007 --> 00:02:24.002
+like many B2B software companies,
+
+54
+00:02:24.002 --> 00:02:25.008
+you can then extend these capabilities
+
+55
+00:02:25.008 --> 00:02:28.007
+into your product to drive innovation.
+
+56
+00:02:28.007 --> 00:02:29.009
+You can start incorporating AI
+
+57
+00:02:29.009 --> 00:02:32.002
+across several dimensions in your product,
+
+58
+00:02:32.002 --> 00:02:34.004
+across all development cycle.
+
+59
+00:02:34.004 --> 00:02:36.006
+AI can explore the design specs for your product
+
+60
+00:02:36.006 --> 00:02:38.008
+and help identify potential gaps
+
+61
+00:02:38.008 --> 00:02:41.000
+or suggest new combinations or features
+
+62
+00:02:41.000 --> 00:02:42.006
+or functionalities for you.
+
+63
+00:02:42.006 --> 00:02:44.007
+Last, and potentially most important,
+
+64
+00:02:44.007 --> 00:02:46.000
+it could speed up innovation
+
+65
+00:02:46.000 --> 00:02:48.006
+by taking on some of the creative heavy lifting.
+
+66
+00:02:48.006 --> 00:02:50.005
+By modeling trends, patterns,
+
+67
+00:02:50.005 --> 00:02:52.004
+and relationships in data,
+
+68
+00:02:52.004 --> 00:02:54.006
+AI can generate new ideas and solutions
+
+69
+00:02:54.006 --> 00:02:56.005
+that otherwise would not be apparent.
+
+70
+00:02:56.005 --> 00:02:58.007
+This could be especially valuable
+
+71
+00:02:58.007 --> 00:03:01.002
+when it comes to rapid product development.
+
+72
+00:03:01.002 --> 00:03:03.006
+It could really help speed up time to market
+
+73
+00:03:03.006 --> 00:03:05.005
+for innovative new ideas.
+
+74
+00:03:05.005 --> 00:03:07.005
+With generative applications,
+
+75
+00:03:07.005 --> 00:03:10.005
+no creative process has to start with a blank slate.
+
+76
+00:03:10.005 --> 00:03:11.008
+You can jumpstart it easily
+
+77
+00:03:11.008 --> 00:03:13.008
+with your AI brainstorming partner.
+
+78
+00:03:13.008 --> 00:03:15.005
+Before you go to the next video,
+
+79
+00:03:15.005 --> 00:03:17.005
+take a moment to brainstorm specific ways
+
+80
+00:03:17.005 --> 00:03:20.000
+you can apply AI to your business.
+
+81
+00:03:20.000 --> 00:03:21.007
+Given the business objectives you outlined
+
+82
+00:03:21.007 --> 00:03:24.003
+for yourself before, consider areas
+
+83
+00:03:24.003 --> 00:03:25.007
+where you might be able to improve
+
+84
+00:03:25.007 --> 00:03:27.005
+productivity or efficiency
+
+85
+00:03:27.005 --> 00:03:30.002
+and how you can use AI to inspire product innovation.
