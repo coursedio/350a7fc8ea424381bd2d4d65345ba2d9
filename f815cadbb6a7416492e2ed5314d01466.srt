@@ -1,0 +1,129 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:02.006
+- Implementing AI can be complex,
+
+2
+00:00:02.006 --> 00:00:05.007
+so don't be afraid to ask for help when you need it.
+
+3
+00:00:05.007 --> 00:00:07.004
+If your business is just getting started
+
+4
+00:00:07.004 --> 00:00:10.003
+with generative AI models or AI in general,
+
+5
+00:00:10.003 --> 00:00:12.006
+working with industry experts, partners,
+
+6
+00:00:12.006 --> 00:00:16.004
+or third-party vendors can be a great starting point.
+
+7
+00:00:16.004 --> 00:00:19.006
+Many vendors can provide you with an established AI system,
+
+8
+00:00:19.006 --> 00:00:22.001
+help you with data management and integration,
+
+9
+00:00:22.001 --> 00:00:23.005
+and offer the technical support
+
+10
+00:00:23.005 --> 00:00:26.007
+and expertise to help you get started faster.
+
+11
+00:00:26.007 --> 00:00:27.008
+Just like in every process,
+
+12
+00:00:27.008 --> 00:00:29.004
+when you try to select the best partner,
+
+13
+00:00:29.004 --> 00:00:32.001
+look for reputation and experience and customer support,
+
+14
+00:00:32.001 --> 00:00:33.006
+and obviously, pricing.
+
+15
+00:00:33.006 --> 00:00:36.006
+Make sure that they can satisfy the requirements we outlined
+
+16
+00:00:36.006 --> 00:00:38.002
+in the previous section.
+
+17
+00:00:38.002 --> 00:00:40.007
+Some of the largest tech companies in the world,
+
+18
+00:00:40.007 --> 00:00:45.001
+such as Microsoft, Google, Amazon, InVideo, or Adobe,
+
+19
+00:00:45.001 --> 00:00:47.008
+offer a variety of generative AI tools
+
+20
+00:00:47.008 --> 00:00:50.004
+for a wide range of applications.
+
+21
+00:00:50.004 --> 00:00:51.009
+There are also other companies
+
+22
+00:00:51.009 --> 00:00:54.005
+that offer specialized solutions.
+
+23
+00:00:54.005 --> 00:00:59.005
+The most important thing, though, is knowing what you need.
+
+24
+00:00:59.005 --> 00:01:01.000
+Now, some of you are considering
+
+25
+00:01:01.000 --> 00:01:02.006
+whether it's worth working directly
+
+26
+00:01:02.006 --> 00:01:05.006
+with AI research organizations, like OpenAI.
+
+27
+00:01:05.006 --> 00:01:07.008
+That really depends on your capabilities.
+
+28
+00:01:07.008 --> 00:01:10.007
+If you have a highly specialized project,
+
+29
+00:01:10.007 --> 00:01:13.004
+and you have the internal expertise and resources required
+
+30
+00:01:13.004 --> 00:01:16.000
+to successfully implement AI on your own,
+
+31
+00:01:16.000 --> 00:01:18.006
+then that might be the preferred route for you.
+
+32
+00:01:18.006 --> 00:01:21.006
+Be sure to take the time to assess several options.
