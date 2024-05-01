@@ -1,0 +1,321 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:03.005
+- Generally, AI models refer to artificial intelligence
+
+2
+00:00:03.005 --> 00:00:07.008
+that can autonomously create or generate new content.
+
+3
+00:00:07.008 --> 00:00:11.006
+In my previous course about developing an AI first mindset,
+
+4
+00:00:11.006 --> 00:00:14.000
+we discussed how AI is used for analysis,
+
+5
+00:00:14.000 --> 00:00:17.009
+classification, optimization, and recommendation.
+
+6
+00:00:17.009 --> 00:00:21.000
+Now, these new advanced AI models
+
+7
+00:00:21.000 --> 00:00:24.000
+can understand patterns, and relationships, and data
+
+8
+00:00:24.000 --> 00:00:27.009
+and then use that understanding to comprehend
+
+9
+00:00:27.009 --> 00:00:32.001
+and then produce or synthesize new information.
+
+10
+00:00:32.001 --> 00:00:35.004
+This massive advancement in AI was made possible
+
+11
+00:00:35.004 --> 00:00:37.003
+due to a number of factors,
+
+12
+00:00:37.003 --> 00:00:40.002
+but arguably the three most important ones were
+
+13
+00:00:40.002 --> 00:00:43.005
+the development of innovative deep learning architectures,
+
+14
+00:00:43.005 --> 00:00:46.000
+such as transformers and diffusions,
+
+15
+00:00:46.000 --> 00:00:49.009
+which are facilitating more complex and efficient AI models.
+
+16
+00:00:49.009 --> 00:00:52.001
+Number two is the rapid expansion and access
+
+17
+00:00:52.001 --> 00:00:55.009
+to computing power, especially cloud computing,
+
+18
+00:00:55.009 --> 00:00:58.005
+which has made compute more accessible and cost effective
+
+19
+00:00:58.005 --> 00:01:01.004
+for AI researchers and companies like OpenAI
+
+20
+00:01:01.004 --> 00:01:04.006
+who rely on it for developing and training their models.
+
+21
+00:01:04.006 --> 00:01:07.001
+And number three is the ability to learn
+
+22
+00:01:07.001 --> 00:01:11.000
+and train on an unprecedented data scale.
+
+23
+00:01:11.000 --> 00:01:13.009
+Essentially, the entire internet,
+
+24
+00:01:13.009 --> 00:01:15.009
+take for example, an AI model
+
+25
+00:01:15.009 --> 00:01:17.009
+that's trained on thousands of paintings
+
+26
+00:01:17.009 --> 00:01:19.008
+from famous artists.
+
+27
+00:01:19.008 --> 00:01:21.009
+The AI model will learn the style,
+
+28
+00:01:21.009 --> 00:01:24.004
+the patterns, and techniques from these paintings
+
+29
+00:01:24.004 --> 00:01:26.004
+and then utilize this knowledge
+
+30
+00:01:26.004 --> 00:01:30.004
+to create new and sometimes unique works of art.
+
+31
+00:01:30.004 --> 00:01:31.007
+Check out, for example,
+
+32
+00:01:31.007 --> 00:01:34.006
+a photo I took of the sky of New York
+
+33
+00:01:34.006 --> 00:01:38.000
+and how I recreated it in the style of a Renaissance painter
+
+34
+00:01:38.000 --> 00:01:40.009
+while adding some science fiction elements to it.
+
+35
+00:01:40.009 --> 00:01:43.004
+That's pretty cool, right?
+
+36
+00:01:43.004 --> 00:01:45.009
+Art is just one example.
+
+37
+00:01:45.009 --> 00:01:48.008
+Let's talk about customer support.
+
+38
+00:01:48.008 --> 00:01:50.000
+The latest AI models
+
+39
+00:01:50.000 --> 00:01:53.003
+are already trained on customer support best practices,
+
+40
+00:01:53.003 --> 00:01:56.007
+from every product knowledge base available.
+
+41
+00:01:56.007 --> 00:02:00.005
+Applying it within the setting of your own business
+
+42
+00:02:00.005 --> 00:02:04.002
+can already enhance your customer experienced materially.
+
+43
+00:02:04.002 --> 00:02:07.003
+And if you're using a conversational AI model,
+
+44
+00:02:07.003 --> 00:02:08.008
+customers might not even realize
+
+45
+00:02:08.008 --> 00:02:12.000
+that they're talking to a machine, unless you tell them.
+
+46
+00:02:12.000 --> 00:02:16.002
+Now, imagine you can fine tune it with your own data
+
+47
+00:02:16.002 --> 00:02:18.007
+and include the uniqueness of each customer,
+
+48
+00:02:18.007 --> 00:02:22.001
+your business model, your desired operating system,
+
+49
+00:02:22.001 --> 00:02:23.009
+and your principles.
+
+50
+00:02:23.009 --> 00:02:25.005
+You can then utilize this knowledge
+
+51
+00:02:25.005 --> 00:02:28.007
+and establish a deeper connection with your customers
+
+52
+00:02:28.007 --> 00:02:32.002
+and help provide the best service that matches your brand.
+
+53
+00:02:32.002 --> 00:02:34.006
+Imagine building unique customer support models
+
+54
+00:02:34.006 --> 00:02:37.000
+for healthcare, or travel, or government,
+
+55
+00:02:37.000 --> 00:02:38.006
+or utility companies.
+
+56
+00:02:38.006 --> 00:02:42.006
+It's astonishing how extensible this technology can be.
+
+57
+00:02:42.006 --> 00:02:45.001
+AI can be used to create new products or designs.
+
+58
+00:02:45.001 --> 00:02:47.005
+It could be used to reimagine user experiences,
+
+59
+00:02:47.005 --> 00:02:50.008
+to reinvent workflows, and to improve decision making.
+
+60
+00:02:50.008 --> 00:02:53.006
+The list is endless, and as a result,
+
+61
+00:02:53.006 --> 00:02:56.007
+AI has the potential to significantly benefit
+
+62
+00:02:56.007 --> 00:03:01.009
+and disrupt businesses across a wide range of sectors.
+
+63
+00:03:01.009 --> 00:03:04.008
+Now, the disruption part might sound concerning
+
+64
+00:03:04.008 --> 00:03:06.003
+but the more you know,
+
+65
+00:03:06.003 --> 00:03:08.000
+the better position you'll be in
+
+66
+00:03:08.000 --> 00:03:09.007
+to leverage this technology positively
+
+67
+00:03:09.007 --> 00:03:12.003
+for your business and for your customers.
+
+68
+00:03:12.003 --> 00:03:14.009
+If you do have concerns or reservations,
+
+69
+00:03:14.009 --> 00:03:16.005
+write them down
+
+70
+00:03:16.005 --> 00:03:18.001
+and hopefully we'll be able to address them
+
+71
+00:03:18.001 --> 00:03:19.005
+by the end of this course.
+
+72
+00:03:19.005 --> 00:03:20.006
+In the next few sections
+
+73
+00:03:20.006 --> 00:03:22.001
+I'll share several key components
+
+74
+00:03:22.001 --> 00:03:25.006
+that are typically involved in every AI project.
+
+75
+00:03:25.006 --> 00:03:28.000
+I cover some of them in more depth in my previous course
+
+76
+00:03:28.000 --> 00:03:29.007
+in case you want to check it out.
+
+77
+00:03:29.007 --> 00:03:31.007
+But for the purposes of this course,
+
+78
+00:03:31.007 --> 00:03:32.009
+you only need to know
+
+79
+00:03:32.009 --> 00:03:34.008
+the components mentioned in this section.
+
+80
+00:03:34.008 --> 00:03:35.009
+So let's get started.
