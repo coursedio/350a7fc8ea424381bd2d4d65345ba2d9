@@ -1,0 +1,333 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:03.001
+- An ethical and responsible AI approach
+
+2
+00:00:03.001 --> 00:00:06.006
+is critical to avoid unintended consequences.
+
+3
+00:00:06.006 --> 00:00:09.003
+While AI is a powerful technology
+
+4
+00:00:09.003 --> 00:00:12.008
+with the potential to bring transformative positive change,
+
+5
+00:00:12.008 --> 00:00:16.001
+it could also carry inherent risks and concerns.
+
+6
+00:00:16.001 --> 00:00:17.009
+When it comes to developing AI applications,
+
+7
+00:00:17.009 --> 00:00:20.005
+specifically generative AI ones,
+
+8
+00:00:20.005 --> 00:00:21.009
+it's important to be mindful
+
+9
+00:00:21.009 --> 00:00:25.002
+of the importance of ethics in data privacy.
+
+10
+00:00:25.002 --> 00:00:27.002
+Here are a few guidelines to keep in mind
+
+11
+00:00:27.002 --> 00:00:29.001
+for ethical AI development.
+
+12
+00:00:29.001 --> 00:00:30.008
+Number one, transparency.
+
+13
+00:00:30.008 --> 00:00:34.007
+As AI becomes prevalent, transparency becomes more critical.
+
+14
+00:00:34.007 --> 00:00:36.005
+Companies should strive to be transparent
+
+15
+00:00:36.005 --> 00:00:38.003
+with their use of AI,
+
+16
+00:00:38.003 --> 00:00:40.009
+whether that by disclosing the types of data
+
+17
+00:00:40.009 --> 00:00:42.004
+used in their algorithms
+
+18
+00:00:42.004 --> 00:00:45.007
+or by explaining the decisions made by the system.
+
+19
+00:00:45.007 --> 00:00:47.003
+Number two is bias.
+
+20
+00:00:47.003 --> 00:00:50.005
+As we already learned, AI learns from data,
+
+21
+00:00:50.005 --> 00:00:54.001
+and since data can be biased, so can AI.
+
+22
+00:00:54.001 --> 00:00:55.003
+Leaders should be careful
+
+23
+00:00:55.003 --> 00:00:57.005
+to proactively ensure their AI systems
+
+24
+00:00:57.005 --> 00:01:00.006
+are designed to avoid bias or discrimination
+
+25
+00:01:00.006 --> 00:01:02.005
+in order to provide equitable outcomes
+
+26
+00:01:02.005 --> 00:01:05.003
+for all customers they have.
+
+27
+00:01:05.003 --> 00:01:07.001
+Number three is data privacy.
+
+28
+00:01:07.001 --> 00:01:09.009
+Protecting sensitive customer and company data
+
+29
+00:01:09.009 --> 00:01:12.005
+should always be a top priority.
+
+30
+00:01:12.005 --> 00:01:15.003
+Companies should be thoughtful about how they collect,
+
+31
+00:01:15.003 --> 00:01:18.001
+how they store, and how they use data.
+
+32
+00:01:18.001 --> 00:01:20.003
+Adhering to data privacy regulations
+
+33
+00:01:20.003 --> 00:01:21.008
+and implementing best practices
+
+34
+00:01:21.008 --> 00:01:25.001
+to ensure data remains secure and confidential.
+
+35
+00:01:25.001 --> 00:01:27.007
+When it comes to protecting customer data privacy,
+
+36
+00:01:27.007 --> 00:01:31.002
+there are three specific actions you should take.
+
+37
+00:01:31.002 --> 00:01:33.004
+Know what data you have.
+
+38
+00:01:33.004 --> 00:01:35.008
+To protect customer data you need to understand
+
+39
+00:01:35.008 --> 00:01:38.009
+what you are collecting and why.
+
+40
+00:01:38.009 --> 00:01:41.002
+Know which data is sensitive
+
+41
+00:01:41.002 --> 00:01:44.009
+and ensure it receives the highest level of protection.
+
+42
+00:01:44.009 --> 00:01:47.003
+Establish clear policies.
+
+43
+00:01:47.003 --> 00:01:50.000
+Your company should have a clear procedure
+
+44
+00:01:50.000 --> 00:01:54.003
+to safeguard customer data that complies with local laws.
+
+45
+00:01:54.003 --> 00:01:56.006
+Educate your employees.
+
+46
+00:01:56.006 --> 00:02:00.000
+Employees must understand the importance of data privacy
+
+47
+00:02:00.000 --> 00:02:04.001
+and the role they play in keeping customer data safe.
+
+48
+00:02:04.001 --> 00:02:06.007
+Your company can provide training and resources
+
+49
+00:02:06.007 --> 00:02:10.007
+to ensure employees know how to handle data responsibly.
+
+50
+00:02:10.007 --> 00:02:12.007
+By taking these actions,
+
+51
+00:02:12.007 --> 00:02:15.009
+companies not only comply with data privacy laws,
+
+52
+00:02:15.009 --> 00:02:17.009
+but they also build trust with their customers
+
+53
+00:02:17.009 --> 00:02:20.009
+by demonstrating their commitment to data privacy.
+
+54
+00:02:20.009 --> 00:02:22.005
+Another potential risk with AI
+
+55
+00:02:22.005 --> 00:02:25.007
+is intellectual property violations.
+
+56
+00:02:25.007 --> 00:02:29.002
+If your company uses AI to generate content,
+
+57
+00:02:29.002 --> 00:02:30.008
+it's necessary to ensure you're not
+
+58
+00:02:30.008 --> 00:02:32.002
+unintentionally infringing
+
+59
+00:02:32.002 --> 00:02:34.009
+on any copyrights or trademarks.
+
+60
+00:02:34.009 --> 00:02:38.007
+To avoid IP violations, make sure your company is compliant
+
+61
+00:02:38.007 --> 00:02:40.008
+with copyright to trademark laws,
+
+62
+00:02:40.008 --> 00:02:43.003
+which could be unique to your local markets.
+
+63
+00:02:43.003 --> 00:02:45.005
+Understanding these laws is the first step
+
+64
+00:02:45.005 --> 00:02:47.004
+to avoiding violations.
+
+65
+00:02:47.004 --> 00:02:50.002
+As you can see, the ethical challenges posed by AI
+
+66
+00:02:50.002 --> 00:02:53.001
+are quite complex and multifaceted.
+
+67
+00:02:53.001 --> 00:02:55.005
+One of the most material things a company can do
+
+68
+00:02:55.005 --> 00:02:59.003
+to address these issues is to ensure that humans
+
+69
+00:02:59.003 --> 00:03:01.006
+are actively overseeing the development
+
+70
+00:03:01.006 --> 00:03:03.004
+and application of AI.
+
+71
+00:03:03.004 --> 00:03:06.008
+Some key steps in this direction include, number one,
+
+72
+00:03:06.008 --> 00:03:09.003
+establishing reporting and feedback mechanisms
+
+73
+00:03:09.003 --> 00:03:12.009
+that allow customers and employees to flag problems.
+
+74
+00:03:12.009 --> 00:03:16.003
+Number two, thoroughly reviewing any prompts and outputs
+
+75
+00:03:16.003 --> 00:03:17.007
+that are generated programmatically
+
+76
+00:03:17.007 --> 00:03:20.007
+in order to catch potential issues early on.
+
+77
+00:03:20.007 --> 00:03:24.002
+And number three, educating users of AI content
+
+78
+00:03:24.002 --> 00:03:26.003
+about the responsibilities
+
+79
+00:03:26.003 --> 00:03:29.005
+when incorporating it into their own work.
+
+80
+00:03:29.005 --> 00:03:32.002
+These are just a few steps,
+
+81
+00:03:32.002 --> 00:03:34.001
+but for fuller understanding of the role
+
+82
+00:03:34.001 --> 00:03:35.005
+and responsibility of AI,
+
+83
+00:03:35.005 --> 00:03:37.009
+check out the course notes for more information.
