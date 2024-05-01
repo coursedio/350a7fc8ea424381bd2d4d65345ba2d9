@@ -1,0 +1,365 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:03.001
+- You might be excited about the possibilities AI can offer
+
+2
+00:00:03.001 --> 00:00:04.002
+for your company.
+
+3
+00:00:04.002 --> 00:00:07.005
+But the AI implementation is not the goal in itself.
+
+4
+00:00:07.005 --> 00:00:08.008
+It's a means to an end,
+
+5
+00:00:08.008 --> 00:00:11.009
+one that should help you meet your strategic objectives.
+
+6
+00:00:11.009 --> 00:00:13.005
+As we discussed earlier,
+
+7
+00:00:13.005 --> 00:00:15.002
+the first and most important step
+
+8
+00:00:15.002 --> 00:00:17.006
+is clearly defining your business objective.
+
+9
+00:00:17.006 --> 00:00:19.005
+Without a clear understanding
+
+10
+00:00:19.005 --> 00:00:21.008
+of what you're trying to accomplish,
+
+11
+00:00:21.008 --> 00:00:24.001
+you will never achieve your goal.
+
+12
+00:00:24.001 --> 00:00:26.009
+Think through the business problems you're trying to solve.
+
+13
+00:00:26.009 --> 00:00:28.009
+Where are you looking to create the most impact
+
+14
+00:00:28.009 --> 00:00:31.009
+for your company, and why is that the most important?
+
+15
+00:00:31.009 --> 00:00:34.001
+Those could be process related.
+
+16
+00:00:34.001 --> 00:00:36.003
+For example, a manufacturing company
+
+17
+00:00:36.003 --> 00:00:40.002
+might want to focus on optimizing its production processes
+
+18
+00:00:40.002 --> 00:00:43.001
+or a consumer internet company might want to reimagine
+
+19
+00:00:43.001 --> 00:00:45.009
+its experience to increase customer loyalty.
+
+20
+00:00:45.009 --> 00:00:49.003
+Start by sending out specific measurable outcomes
+
+21
+00:00:49.003 --> 00:00:50.007
+for your objective.
+
+22
+00:00:50.007 --> 00:00:52.001
+And if successful,
+
+23
+00:00:52.001 --> 00:00:54.001
+what's the change you would like to see?
+
+24
+00:00:54.001 --> 00:00:58.005
+Next you need to evaluate your current capabilities.
+
+25
+00:00:58.005 --> 00:01:01.002
+What are your strengths and gaps
+
+26
+00:01:01.002 --> 00:01:03.009
+in relation to the objective you chose?
+
+27
+00:01:03.009 --> 00:01:05.006
+Understanding your current capabilities
+
+28
+00:01:05.006 --> 00:01:08.006
+can help you determine where to start with AI
+
+29
+00:01:08.006 --> 00:01:10.000
+and what types of projects
+
+30
+00:01:10.000 --> 00:01:12.006
+might have the highest ROI for you.
+
+31
+00:01:12.006 --> 00:01:13.009
+If your company, for example,
+
+32
+00:01:13.009 --> 00:01:16.001
+does not have experience with AI,
+
+33
+00:01:16.001 --> 00:01:18.000
+you might want to invest in training your employees
+
+34
+00:01:18.000 --> 00:01:20.004
+on machine learning and data science first
+
+35
+00:01:20.004 --> 00:01:23.004
+so you can get the most out out of your AI projects.
+
+36
+00:01:23.004 --> 00:01:27.001
+Don't just think of AI as a way to close gaps.
+
+37
+00:01:27.001 --> 00:01:30.001
+There's a good chance that AI can actually help you
+
+38
+00:01:30.001 --> 00:01:31.003
+boost the strength you already have.
+
+39
+00:01:31.003 --> 00:01:34.007
+As a mental model, don't start by asking yourself
+
+40
+00:01:34.007 --> 00:01:36.006
+where can I add AI?
+
+41
+00:01:36.006 --> 00:01:40.003
+Ask yourself, given my objectives and my current state,
+
+42
+00:01:40.003 --> 00:01:42.003
+and by thinking AI first,
+
+43
+00:01:42.003 --> 00:01:45.007
+what can I do to create business value
+
+44
+00:01:45.007 --> 00:01:47.009
+in a differentiated way?
+
+45
+00:01:47.009 --> 00:01:51.003
+The third step is to identify the data needed
+
+46
+00:01:51.003 --> 00:01:53.001
+to meet your objective.
+
+47
+00:01:53.001 --> 00:01:54.009
+As we learned earlier, with AI,
+
+48
+00:01:54.009 --> 00:01:57.005
+data is no longer a competitive advantage as it used to be.
+
+49
+00:01:57.005 --> 00:02:01.001
+I would assume, for example, that many small businesses
+
+50
+00:02:01.001 --> 00:02:03.006
+will have to rely on pre-train models like GPT
+
+51
+00:02:03.006 --> 00:02:05.000
+and zero shot learning.
+
+52
+00:02:05.000 --> 00:02:07.005
+However, you still need to assess
+
+53
+00:02:07.005 --> 00:02:10.001
+what kinds of data you will need
+
+54
+00:02:10.001 --> 00:02:11.008
+and where you can get it from.
+
+55
+00:02:11.008 --> 00:02:13.004
+It could be internal or external,
+
+56
+00:02:13.004 --> 00:02:16.001
+and ideally the data is unique, it's high quality,
+
+57
+00:02:16.001 --> 00:02:18.005
+and it's differentiated to you.
+
+58
+00:02:18.005 --> 00:02:21.003
+I cover this in depth in my previous AI mindset course
+
+59
+00:02:21.003 --> 00:02:23.005
+if you'd like to learn more about it.
+
+60
+00:02:23.005 --> 00:02:25.009
+The fourth step is to select
+
+61
+00:02:25.009 --> 00:02:28.003
+the right types of AI systems and tools.
+
+62
+00:02:28.003 --> 00:02:31.007
+Choosing the right tools and platforms can go a long way
+
+63
+00:02:31.007 --> 00:02:34.002
+in maximizing your success.
+
+64
+00:02:34.002 --> 00:02:36.003
+So evaluating different AI systems
+
+65
+00:02:36.003 --> 00:02:37.007
+against your specific goals
+
+66
+00:02:37.007 --> 00:02:39.005
+will really help you select the right one
+
+67
+00:02:39.005 --> 00:02:41.007
+that fits your needs the best.
+
+68
+00:02:41.007 --> 00:02:43.005
+In the next couple of videos, we'll learn more
+
+69
+00:02:43.005 --> 00:02:45.004
+about how to make those decisions.
+
+70
+00:02:45.004 --> 00:02:49.005
+The final step is to monitor results,
+
+71
+00:02:49.005 --> 00:02:52.008
+refine and assess progress and risks.
+
+72
+00:02:52.008 --> 00:02:56.000
+This way you can make ongoing iterations and refinements
+
+73
+00:02:56.000 --> 00:03:00.000
+to your projects to achieve the best outcome for you.
+
+74
+00:03:00.000 --> 00:03:01.000
+It's also critical
+
+75
+00:03:01.000 --> 00:03:03.008
+that you consider the potential risks that can arise
+
+76
+00:03:03.008 --> 00:03:06.009
+with your AI projects, such as privacy concerns
+
+77
+00:03:06.009 --> 00:03:10.002
+bias in the data, copyright violation
+
+78
+00:03:10.002 --> 00:03:12.005
+or even lack of transparency
+
+79
+00:03:12.005 --> 00:03:15.006
+and take steps to address these issues upfront.
+
+80
+00:03:15.006 --> 00:03:19.000
+In this course, we have a whole section dedicated to it
+
+81
+00:03:19.000 --> 00:03:21.000
+given how important this is.
+
+82
+00:03:21.000 --> 00:03:22.006
+So there you have it.
+
+83
+00:03:22.006 --> 00:03:24.003
+If you're looking to get started,
+
+84
+00:03:24.003 --> 00:03:26.008
+these five guidelines will help you make the most
+
+85
+00:03:26.008 --> 00:03:30.006
+out of AI and unlock the potential for your business.
+
+86
+00:03:30.006 --> 00:03:34.001
+So number one, clearly define your business objective.
+
+87
+00:03:34.001 --> 00:03:37.006
+Number two, evaluate your current capabilities.
+
+88
+00:03:37.006 --> 00:03:40.006
+Number three, identify the data you need.
+
+89
+00:03:40.006 --> 00:03:44.007
+Number four, select the right types of AI systems and tools,
+
+90
+00:03:44.007 --> 00:03:47.006
+and lastly number five, monitor results,
+
+91
+00:03:47.006 --> 00:03:50.003
+refine and assess progress and risks.
