@@ -1,0 +1,305 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:03.002
+- Now that you have an idea of your company's needs,
+
+2
+00:00:03.002 --> 00:00:05.004
+let's go deeper into how to select
+
+3
+00:00:05.004 --> 00:00:08.000
+the right type of AI for your business.
+
+4
+00:00:08.000 --> 00:00:10.009
+There are many different types of AI systems and tools,
+
+5
+00:00:10.009 --> 00:00:14.005
+and choosing the right one is crucial for success.
+
+6
+00:00:14.005 --> 00:00:17.003
+For additional context, check out the course notes
+
+7
+00:00:17.003 --> 00:00:20.006
+for the core and generative AI landscape map.
+
+8
+00:00:20.006 --> 00:00:23.001
+But let's start with data requirements.
+
+9
+00:00:23.001 --> 00:00:25.007
+When you evaluate types of AI systems,
+
+10
+00:00:25.007 --> 00:00:27.006
+consider the following.
+
+11
+00:00:27.006 --> 00:00:31.009
+What formats of data do you need for your project?
+
+12
+00:00:31.009 --> 00:00:34.002
+What would be your input data?
+
+13
+00:00:34.002 --> 00:00:36.009
+What would be your desired output data?
+
+14
+00:00:36.009 --> 00:00:39.000
+Different types of AI models and applications
+
+15
+00:00:39.000 --> 00:00:41.007
+accept and generate different formats of data,
+
+16
+00:00:41.007 --> 00:00:44.001
+such as text or images.
+
+17
+00:00:44.001 --> 00:00:47.005
+How often will your data need to be refreshed?
+
+18
+00:00:47.005 --> 00:00:49.005
+Depending on your business objective,
+
+19
+00:00:49.005 --> 00:00:53.004
+data might need to be refreshed daily or weekly or monthly.
+
+20
+00:00:53.004 --> 00:00:56.005
+And for some applications such as medical diagnostics,
+
+21
+00:00:56.005 --> 00:01:01.001
+a continuous stream of realtime data might even be needed.
+
+22
+00:01:01.001 --> 00:01:05.003
+Next, what source of high-quality data do you have at scale?
+
+23
+00:01:05.003 --> 00:01:08.004
+It could be owned by you or coming through partnerships.
+
+24
+00:01:08.004 --> 00:01:11.007
+Remember that the focus should be on proprietary data.
+
+25
+00:01:11.007 --> 00:01:14.000
+For example, if your company is looking to use AI
+
+26
+00:01:14.000 --> 00:01:17.004
+for pharmaceutical research or drug discovery,
+
+27
+00:01:17.004 --> 00:01:19.002
+then data on molecular structures
+
+28
+00:01:19.002 --> 00:01:22.005
+and biological pathways might be needed.
+
+29
+00:01:22.005 --> 00:01:25.007
+So data will need to be refreshed frequently
+
+30
+00:01:25.007 --> 00:01:27.008
+as new findings emerge.
+
+31
+00:01:27.008 --> 00:01:30.003
+And the AI system you choose should be able
+
+32
+00:01:30.003 --> 00:01:33.009
+to handle the scale, the complex interactions,
+
+33
+00:01:33.009 --> 00:01:36.003
+and analyze vast quantities of data.
+
+34
+00:01:36.003 --> 00:01:39.000
+Or if your company's planning to use AI
+
+35
+00:01:39.000 --> 00:01:42.002
+to improve the accuracy of demand forecasting,
+
+36
+00:01:42.002 --> 00:01:44.002
+then data on past sales performance,
+
+37
+00:01:44.002 --> 00:01:46.007
+economic indicators, reports on industry trends
+
+38
+00:01:46.007 --> 00:01:50.002
+and customer behavior might be needed.
+
+39
+00:01:50.002 --> 00:01:53.001
+The system will need to assimilate large data sets
+
+40
+00:01:53.001 --> 00:01:57.002
+in different formats and continuously update
+
+41
+00:01:57.002 --> 00:01:59.003
+as new data becomes available
+
+42
+00:01:59.003 --> 00:02:01.002
+and then generate accurate predictions
+
+43
+00:02:01.002 --> 00:02:03.004
+for different products and markets.
+
+44
+00:02:03.004 --> 00:02:06.003
+So now let's transition to the type of AI you need.
+
+45
+00:02:06.003 --> 00:02:09.009
+This is basically the AI engine you want to implement.
+
+46
+00:02:09.009 --> 00:02:13.002
+If your goal is to use AI to create product designs,
+
+47
+00:02:13.002 --> 00:02:16.000
+you might want to use a system that has specific capabilities
+
+48
+00:02:16.000 --> 00:02:18.004
+for 3D modeling or animations,
+
+49
+00:02:18.004 --> 00:02:19.008
+or if you're interested in using AI
+
+50
+00:02:19.008 --> 00:02:21.006
+to improve customer service,
+
+51
+00:02:21.006 --> 00:02:23.001
+you might want a system that excels
+
+52
+00:02:23.001 --> 00:02:26.004
+in natural language processing or chat bot development.
+
+53
+00:02:26.004 --> 00:02:30.005
+Or, you might want a system design or product schema
+
+54
+00:02:30.005 --> 00:02:35.001
+that is a mix of workflows and generation and automation.
+
+55
+00:02:35.001 --> 00:02:38.001
+Once you have an idea of the type of system you need,
+
+56
+00:02:38.001 --> 00:02:40.008
+there are three more considerations for you.
+
+57
+00:02:40.008 --> 00:02:43.001
+The first one is implementation.
+
+58
+00:02:43.001 --> 00:02:45.004
+How easy or difficult will it be
+
+59
+00:02:45.004 --> 00:02:48.003
+to implement this type of AI in your company?
+
+60
+00:02:48.003 --> 00:02:51.005
+Consider the technical resources, the personnel, the cost,
+
+61
+00:02:51.005 --> 00:02:53.004
+and the time needed to integrate the model
+
+62
+00:02:53.004 --> 00:02:55.007
+into your business processes.
+
+63
+00:02:55.007 --> 00:03:00.008
+Second, scalability, can the model scale with your business?
+
+64
+00:03:00.008 --> 00:03:02.004
+You want to choose a type of AI
+
+65
+00:03:02.004 --> 00:03:05.001
+that will be able to grow with your company
+
+66
+00:03:05.001 --> 00:03:06.006
+rather than becoming obsolete
+
+67
+00:03:06.006 --> 00:03:09.006
+or struggling to handle the increased volume.
+
+68
+00:03:09.006 --> 00:03:12.000
+And lastly, transparency.
+
+69
+00:03:12.000 --> 00:03:13.001
+Are you able to understand
+
+70
+00:03:13.001 --> 00:03:15.009
+how the model is making its decisions?
+
+71
+00:03:15.009 --> 00:03:19.003
+Transparency is crucial for establishing trust,
+
+72
+00:03:19.003 --> 00:03:22.004
+and can help you fine tune the model over time.
+
+73
+00:03:22.004 --> 00:03:24.005
+With this information fresh in your mind,
+
+74
+00:03:24.005 --> 00:03:26.005
+I want you to pause this video
+
+75
+00:03:26.005 --> 00:03:30.000
+and write down your specific requirements
+
+76
+00:03:30.000 --> 00:03:33.000
+to ensure you're selecting the best solution for your needs.
