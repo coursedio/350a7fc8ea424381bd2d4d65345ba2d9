@@ -1,0 +1,241 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:02.004
+- Futurists often talk
+
+2
+00:00:02.004 --> 00:00:05.001
+about how the difference between science fiction
+
+3
+00:00:05.001 --> 00:00:08.001
+and non-fiction is just a matter of time.
+
+4
+00:00:08.001 --> 00:00:09.005
+I agree.
+
+5
+00:00:09.005 --> 00:00:12.009
+In my previous course about developing an AI-first mindset,
+
+6
+00:00:12.009 --> 00:00:14.005
+I discussed the incredible potential
+
+7
+00:00:14.005 --> 00:00:16.008
+of artificial general intelligence
+
+8
+00:00:16.008 --> 00:00:19.002
+and how that future is very near.
+
+9
+00:00:19.002 --> 00:00:22.008
+The velocity of AI has exceeded my expectation since then.
+
+10
+00:00:22.008 --> 00:00:26.002
+We are living in an era of unprecedented innovation,
+
+11
+00:00:26.002 --> 00:00:28.002
+and that's not about to slow down.
+
+12
+00:00:28.002 --> 00:00:30.000
+I believe it will accelerate.
+
+13
+00:00:30.000 --> 00:00:32.004
+As we discussed in this course, it's clear
+
+14
+00:00:32.004 --> 00:00:34.004
+that AI will continue to play an increasingly
+
+15
+00:00:34.004 --> 00:00:37.002
+important role in every industry.
+
+16
+00:00:37.002 --> 00:00:40.003
+As the technology becomes more accessible, accurate,
+
+17
+00:00:40.003 --> 00:00:42.001
+and cost effective,
+
+18
+00:00:42.001 --> 00:00:44.009
+we can expect this trend to continue with more
+
+19
+00:00:44.009 --> 00:00:47.003
+and more companies adopting advanced AI applications
+
+20
+00:00:47.003 --> 00:00:49.004
+in their day-to-day operations.
+
+21
+00:00:49.004 --> 00:00:52.008
+It will no doubt have a lasting impact on society.
+
+22
+00:00:52.008 --> 00:00:55.008
+Instead of trying to predict the exact future,
+
+23
+00:00:55.008 --> 00:00:56.007
+I'd like to share with you
+
+24
+00:00:56.007 --> 00:00:59.009
+a mental framing of what changes we should expect.
+
+25
+00:00:59.009 --> 00:01:02.006
+Here are a few dimensions to consider.
+
+26
+00:01:02.006 --> 00:01:06.007
+Number one, investment in algorithms.
+
+27
+00:01:06.007 --> 00:01:10.001
+Generative algorithms are continuously evolving,
+
+28
+00:01:10.001 --> 00:01:11.003
+and there are still limitations
+
+29
+00:01:11.003 --> 00:01:14.007
+in terms of accuracy, speed, and generalization.
+
+30
+00:01:14.007 --> 00:01:16.006
+I expect these algorithms to evolve
+
+31
+00:01:16.006 --> 00:01:19.006
+and become more and more sophisticated over time.
+
+32
+00:01:19.006 --> 00:01:24.000
+Number two, reduce demand for computing power.
+
+33
+00:01:24.000 --> 00:01:26.001
+Without GPU constraints,
+
+34
+00:01:26.001 --> 00:01:29.000
+AI systems can handle larger data sets,
+
+35
+00:01:29.000 --> 00:01:31.000
+perform computations faster,
+
+36
+00:01:31.000 --> 00:01:33.009
+and deliver results in near real time.
+
+37
+00:01:33.009 --> 00:01:37.007
+And number three, allowance of more tokens.
+
+38
+00:01:37.007 --> 00:01:40.005
+Without token constraints, AI could be used to
+
+39
+00:01:40.005 --> 00:01:43.003
+address the wider variety of tasks
+
+40
+00:01:43.003 --> 00:01:45.009
+as they'll be able to better equipped to handle longer
+
+41
+00:01:45.009 --> 00:01:48.000
+and more complex inputs.
+
+42
+00:01:48.000 --> 00:01:51.006
+And lastly, computational resources.
+
+43
+00:01:51.006 --> 00:01:53.006
+GPU and token constraints are some
+
+44
+00:01:53.006 --> 00:01:55.008
+of the most common bottlenecks.
+
+45
+00:01:55.008 --> 00:01:57.005
+But AI systems can also be limited
+
+46
+00:01:57.005 --> 00:01:59.007
+by other computational resources,
+
+47
+00:01:59.007 --> 00:02:03.005
+such as CPU power, memory, or storage.
+
+48
+00:02:03.005 --> 00:02:06.001
+As these constraints are lifted over time,
+
+49
+00:02:06.001 --> 00:02:08.007
+performance will continue to improve.
+
+50
+00:02:08.007 --> 00:02:11.004
+This would mean more accurate predictions,
+
+51
+00:02:11.004 --> 00:02:14.006
+greater efficiency, increased capabilities,
+
+52
+00:02:14.006 --> 00:02:18.007
+faster iteration times, and more creative outputs.
+
+53
+00:02:18.007 --> 00:02:22.004
+Imagine a continuously evolving better brain.
+
+54
+00:02:22.004 --> 00:02:25.000
+These advancements will compound over time,
+
+55
+00:02:25.000 --> 00:02:28.002
+as each cycle will pave the way for the next one.
+
+56
+00:02:28.002 --> 00:02:30.007
+While generative AI models will be used primarily
+
+57
+00:02:30.007 --> 00:02:34.002
+in a few use cases, at first, they will likely expand,
+
+58
+00:02:34.002 --> 00:02:36.009
+increase prevalence, and become broadly used
+
+59
+00:02:36.009 --> 00:02:40.002
+over the next few years, transforming industries
+
+60
+00:02:40.002 --> 00:02:42.005
+and creating new opportunities for businesses.
