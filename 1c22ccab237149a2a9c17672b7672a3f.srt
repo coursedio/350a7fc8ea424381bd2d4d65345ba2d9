@@ -1,0 +1,177 @@
+WEBVTT
+
+1
+00:00:00.007 --> 00:00:03.001
+- At this point, you should have a basic understanding
+
+2
+00:00:03.001 --> 00:00:06.008
+of how AI might become more integrated into your business.
+
+3
+00:00:06.008 --> 00:00:08.002
+But now let's talk about
+
+4
+00:00:08.002 --> 00:00:10.009
+how you bring your team along for the ride.
+
+5
+00:00:10.009 --> 00:00:12.004
+As a business leader,
+
+6
+00:00:12.004 --> 00:00:14.001
+you are in a unique position
+
+7
+00:00:14.001 --> 00:00:18.001
+to help drive positive change within your organization.
+
+8
+00:00:18.001 --> 00:00:20.007
+Think about how you can encourage your team
+
+9
+00:00:20.007 --> 00:00:23.005
+to embrace and lead with AI.
+
+10
+00:00:23.005 --> 00:00:26.003
+I'm a big believer that you can't manage
+
+11
+00:00:26.003 --> 00:00:28.009
+what you don't understand.
+
+12
+00:00:28.009 --> 00:00:31.002
+By demystifying this technology,
+
+13
+00:00:31.002 --> 00:00:33.005
+you can address any fears or hesitations
+
+14
+00:00:33.005 --> 00:00:34.008
+your team might have
+
+15
+00:00:34.008 --> 00:00:38.007
+and empower them to become ambassadors for innovation.
+
+16
+00:00:38.007 --> 00:00:40.001
+In the next section,
+
+17
+00:00:40.001 --> 00:00:42.009
+we'll learn about the limitations of AI today
+
+18
+00:00:42.009 --> 00:00:44.001
+and why it's important to keep
+
+19
+00:00:44.001 --> 00:00:46.008
+responsible AI principles in mind.
+
+20
+00:00:46.008 --> 00:00:49.000
+That will help you and your team
+
+21
+00:00:49.000 --> 00:00:51.004
+develop a more rounded perspective
+
+22
+00:00:51.004 --> 00:00:55.000
+of what's possible today and what they can expect next.
+
+23
+00:00:55.000 --> 00:00:57.004
+Remember, you and your team
+
+24
+00:00:57.004 --> 00:01:00.002
+don't have to be technology experts
+
+25
+00:01:00.002 --> 00:01:03.001
+but deepening your collective understanding of AI
+
+26
+00:01:03.001 --> 00:01:07.000
+will help you make more informed decisions moving forward.
+
+27
+00:01:07.000 --> 00:01:08.008
+Before we finish this section,
+
+28
+00:01:08.008 --> 00:01:11.001
+I have one more recommendation for you.
+
+29
+00:01:11.001 --> 00:01:13.007
+Given the novel nature of this technology
+
+30
+00:01:13.007 --> 00:01:16.009
+it can be extremely beneficial to empower your organization
+
+31
+00:01:16.009 --> 00:01:20.007
+to actively participate and experiment with new ideas.
+
+32
+00:01:20.007 --> 00:01:22.000
+For that purpose
+
+33
+00:01:22.000 --> 00:01:23.001
+I would propose you create
+
+34
+00:01:23.001 --> 00:01:26.005
+a lightweight playground or sandbox environment
+
+35
+00:01:26.005 --> 00:01:28.008
+to help your teams experiment with ideas
+
+36
+00:01:28.008 --> 00:01:30.009
+in a low cost, safe way
+
+37
+00:01:30.009 --> 00:01:33.006
+before they go and build a full plan for them.
+
+38
+00:01:33.006 --> 00:01:35.007
+The next big idea for your business
+
+39
+00:01:35.007 --> 00:01:38.005
+can come from anyone in your company.
+
+40
+00:01:38.005 --> 00:01:40.002
+So if you can foster a culture
+
+41
+00:01:40.002 --> 00:01:42.006
+of experimentation and innovation
+
+42
+00:01:42.006 --> 00:01:45.009
+while keeping responsible AI principles in mind,
+
+43
+00:01:45.009 --> 00:01:47.009
+you'll be well positioned to reap the benefits
+
+44
+00:01:47.009 --> 00:01:49.005
+of AI as it evolves.
