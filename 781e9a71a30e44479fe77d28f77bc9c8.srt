@@ -1,0 +1,313 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:03.007
+- In AI, data matters a lot.
+
+2
+00:00:03.007 --> 00:00:05.004
+If you've been tracking AI for a while,
+
+3
+00:00:05.004 --> 00:00:08.007
+or took my previous course, you know the reason for it.
+
+4
+00:00:08.007 --> 00:00:12.002
+AI learns and trains itself with examples,
+
+5
+00:00:12.002 --> 00:00:15.003
+past examples and real-time examples,
+
+6
+00:00:15.003 --> 00:00:17.003
+and those data samples are the fuel
+
+7
+00:00:17.003 --> 00:00:19.008
+that helps AI achieve its objective.
+
+8
+00:00:19.008 --> 00:00:22.000
+The fuel analogy was real.
+
+9
+00:00:22.000 --> 00:00:25.008
+Several years ago, data was even coined as the new oil.
+
+10
+00:00:25.008 --> 00:00:27.006
+The more quality data you had,
+
+11
+00:00:27.006 --> 00:00:29.004
+the better the results you got,
+
+12
+00:00:29.004 --> 00:00:32.001
+the bigger the competitive mode you developed,
+
+13
+00:00:32.001 --> 00:00:35.007
+and the more successful you ultimately became as a company.
+
+14
+00:00:35.007 --> 00:00:37.004
+The latest AI models are challenging
+
+15
+00:00:37.004 --> 00:00:39.005
+that competitive advantage.
+
+16
+00:00:39.005 --> 00:00:41.002
+One of the most impressive aspects
+
+17
+00:00:41.002 --> 00:00:43.003
+of recent generative AI models
+
+18
+00:00:43.003 --> 00:00:44.007
+is that they're already trained
+
+19
+00:00:44.007 --> 00:00:46.006
+on the world's public knowledge.
+
+20
+00:00:46.006 --> 00:00:50.002
+And now that's accessible to everyone,
+
+21
+00:00:50.002 --> 00:00:52.005
+which will make it a commodity over time.
+
+22
+00:00:52.005 --> 00:00:54.008
+Recent developments also enable AI models
+
+23
+00:00:54.008 --> 00:00:57.001
+to create synthetic mock data,
+
+24
+00:00:57.001 --> 00:00:59.005
+or even learn without any data,
+
+25
+00:00:59.005 --> 00:01:02.003
+which is useful in cold start situations,
+
+26
+00:01:02.003 --> 00:01:04.004
+where it's difficult or impossible
+
+27
+00:01:04.004 --> 00:01:07.000
+to obtain examples of training data.
+
+28
+00:01:07.000 --> 00:01:09.000
+These developments lower the barriers to entry
+
+29
+00:01:09.000 --> 00:01:12.007
+for companies that otherwise would not be able to compete.
+
+30
+00:01:12.007 --> 00:01:14.006
+So if you are in this no data camp,
+
+31
+00:01:14.006 --> 00:01:16.004
+that's great news for you.
+
+32
+00:01:16.004 --> 00:01:18.000
+But what does it mean for businesses
+
+33
+00:01:18.000 --> 00:01:20.003
+that heavily rely on proprietary data
+
+34
+00:01:20.003 --> 00:01:24.001
+that is either owned or controlled exclusively by them?
+
+35
+00:01:24.001 --> 00:01:27.004
+Well, if that's you, it's time to rethink your strengths
+
+36
+00:01:27.004 --> 00:01:29.008
+as a business and extend your abilities
+
+37
+00:01:29.008 --> 00:01:32.003
+beyond data capabilities.
+
+38
+00:01:32.003 --> 00:01:35.004
+Data alone will not be sufficient.
+
+39
+00:01:35.004 --> 00:01:39.003
+That said, proprietary data still matters,
+
+40
+00:01:39.003 --> 00:01:41.007
+especially if you can fine-tune the model
+
+41
+00:01:41.007 --> 00:01:44.003
+towards a specific task.
+
+42
+00:01:44.003 --> 00:01:46.009
+Now, you might be asking, "What is fine-tuning,"
+
+43
+00:01:46.009 --> 00:01:48.007
+"and why is it important?"
+
+44
+00:01:48.007 --> 00:01:51.003
+AI models like GPT, which stands for
+
+45
+00:01:51.003 --> 00:01:53.005
+generative pretrained transformer,
+
+46
+00:01:53.005 --> 00:01:56.000
+are general purpose AI models,
+
+47
+00:01:56.000 --> 00:01:58.004
+which have a broader objective function
+
+48
+00:01:58.004 --> 00:02:01.005
+and are already trained on all public knowledge.
+
+49
+00:02:01.005 --> 00:02:03.006
+They know as much as possible,
+
+50
+00:02:03.006 --> 00:02:07.009
+and are designed to perform reasonably well in many tasks,
+
+51
+00:02:07.009 --> 00:02:09.006
+just like generalists.
+
+52
+00:02:09.006 --> 00:02:14.001
+ChatGPT, which is the conversational application of GPT,
+
+53
+00:02:14.001 --> 00:02:16.005
+is one example of these models,
+
+54
+00:02:16.005 --> 00:02:18.007
+but you can fine-tune these models
+
+55
+00:02:18.007 --> 00:02:22.001
+to be specialists in a specific area
+
+56
+00:02:22.001 --> 00:02:25.007
+by training them on unique examples you have.
+
+57
+00:02:25.007 --> 00:02:28.002
+And during this fine-tuning process,
+
+58
+00:02:28.002 --> 00:02:32.008
+the model will adjust its parameters to better fit your data
+
+59
+00:02:32.008 --> 00:02:34.008
+while still learning the knowledge
+
+60
+00:02:34.008 --> 00:02:37.005
+it has gained in the past.
+
+61
+00:02:37.005 --> 00:02:40.007
+This allows the model to become a specialist
+
+62
+00:02:40.007 --> 00:02:43.008
+in a specific area that you want it to learn,
+
+63
+00:02:43.008 --> 00:02:47.002
+while still being able to generate in a general way.
+
+64
+00:02:47.002 --> 00:02:49.008
+Imagine taking athletes and training them
+
+65
+00:02:49.008 --> 00:02:53.006
+to be distance runners, or weightlifters, or gymnasts.
+
+66
+00:02:53.006 --> 00:02:56.004
+You can, and probably should do the same
+
+67
+00:02:56.004 --> 00:02:58.001
+with your application.
+
+68
+00:02:58.001 --> 00:03:00.008
+Otherwise, your product will not be very different
+
+69
+00:03:00.008 --> 00:03:02.004
+than anybody else's.
+
+70
+00:03:02.004 --> 00:03:04.000
+You'll be relying on the same capability
+
+71
+00:03:04.000 --> 00:03:05.009
+everybody else is using.
+
+72
+00:03:05.009 --> 00:03:08.007
+Now, you might be thinking that fine-tuning is your answer
+
+73
+00:03:08.007 --> 00:03:11.003
+to maintaining some of your competitive advantage,
+
+74
+00:03:11.003 --> 00:03:13.009
+but it's important to know that creating a private instance
+
+75
+00:03:13.009 --> 00:03:17.004
+of your own fine-tune model can be very expensive
+
+76
+00:03:17.004 --> 00:03:19.002
+and difficult to maintain.
+
+77
+00:03:19.002 --> 00:03:20.009
+We'll talk more about that later
+
+78
+00:03:20.009 --> 00:03:23.002
+in the AI limitation sections of this course.
