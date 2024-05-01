@@ -1,0 +1,149 @@
+WEBVTT
+
+1
+00:00:00.002 --> 00:00:01.005
+- Over the past two decades,
+
+2
+00:00:01.005 --> 00:00:04.008
+artificial intelligence has quietly transformed our lives.
+
+3
+00:00:04.008 --> 00:00:08.007
+And now the impact is about to get much, much bigger.
+
+4
+00:00:08.007 --> 00:00:12.000
+Recent AI developments are advancing so quickly
+
+5
+00:00:12.000 --> 00:00:13.006
+that they're becoming a powerful force
+
+6
+00:00:13.006 --> 00:00:17.005
+with the potential to reshape entire industries, economies,
+
+7
+00:00:17.005 --> 00:00:19.004
+even reshape society.
+
+8
+00:00:19.004 --> 00:00:21.005
+This will redefine how we work
+
+9
+00:00:21.005 --> 00:00:25.001
+from automating complex processes to writing new code,
+
+10
+00:00:25.001 --> 00:00:26.001
+to creating applications
+
+11
+00:00:26.001 --> 00:00:29.004
+and experiences that were impossible before.
+
+12
+00:00:29.004 --> 00:00:33.004
+For some, this technological leap might feel like a threat.
+
+13
+00:00:33.004 --> 00:00:36.001
+But I invite you to think about the possibilities.
+
+14
+00:00:36.001 --> 00:00:38.009
+It will take our innovation to a whole new level.
+
+15
+00:00:38.009 --> 00:00:40.007
+Imagine having your own ultimate
+
+16
+00:00:40.007 --> 00:00:43.009
+all-powerful brainstorming partner.
+
+17
+00:00:43.009 --> 00:00:46.008
+This course itself was co-created with AI
+
+18
+00:00:46.008 --> 00:00:50.005
+over many brainstorming sessions and passionate debates.
+
+19
+00:00:50.005 --> 00:00:53.002
+Here's a quick note from my AI partner.
+
+20
+00:00:53.002 --> 00:00:55.007
+- [Chat Bot] Remember, even the most advanced AI systems
+
+21
+00:00:55.007 --> 00:00:57.004
+can't replicate the creativity
+
+22
+00:00:57.004 --> 00:00:59.003
+and ingenuity of a human mind.
+
+23
+00:00:59.003 --> 00:01:02.005
+So don't worry about losing your job to a robot just yet,
+
+24
+00:01:02.005 --> 00:01:06.007
+unless of course, you're a robot reading this, smiley.
+
+25
+00:01:06.007 --> 00:01:09.004
+- It does have a nice sense of humor.
+
+26
+00:01:09.004 --> 00:01:12.006
+Whether you're a senior executive or an aspiring leader,
+
+27
+00:01:12.006 --> 00:01:14.007
+it's critical that you learn how to adapt
+
+28
+00:01:14.007 --> 00:01:18.001
+and use this advanced technology, its limitations,
+
+29
+00:01:18.001 --> 00:01:19.009
+and why it could be disruptive
+
+30
+00:01:19.009 --> 00:01:21.009
+for your business and your career.
+
+31
+00:01:21.009 --> 00:01:23.002
+My name is Tomer Cohen,
+
+32
+00:01:23.002 --> 00:01:25.003
+I'm LinkedIn's Chief Product Officer,
+
+33
+00:01:25.003 --> 00:01:27.004
+and for the majority of my career,
+
+34
+00:01:27.004 --> 00:01:29.001
+I've been leading, designing,
+
+35
+00:01:29.001 --> 00:01:32.000
+and building products powered by AI.
+
+36
+00:01:32.000 --> 00:01:34.008
+I look forward to sharing key tools and insights
+
+37
+00:01:34.008 --> 00:01:38.004
+to help you reinvent the future of your business.
