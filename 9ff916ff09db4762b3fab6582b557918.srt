@@ -1,0 +1,477 @@
+WEBVTT
+
+1
+00:00:00.007 --> 00:00:03.000
+- At this point, you might think, "Wow,
+
+2
+00:00:03.000 --> 00:00:06.007
+these generative AI models are insanely powerful
+
+3
+00:00:06.007 --> 00:00:09.006
+and I want to get started with implementing them right away."
+
+4
+00:00:09.006 --> 00:00:11.009
+Well, not quite.
+
+5
+00:00:11.009 --> 00:00:14.009
+Today's AI models still have many critical pitfalls
+
+6
+00:00:14.009 --> 00:00:16.003
+and limitations to keep in mind
+
+7
+00:00:16.003 --> 00:00:18.007
+before you start working with them.
+
+8
+00:00:18.007 --> 00:00:21.000
+Avoiding these mistakes can increase the chances
+
+9
+00:00:21.000 --> 00:00:23.001
+of success for your project.
+
+10
+00:00:23.001 --> 00:00:25.008
+I would expect that many of these pitfalls and limitations
+
+11
+00:00:25.008 --> 00:00:28.004
+will get better over time, but in the meantime,
+
+12
+00:00:28.004 --> 00:00:31.005
+it's important to be actively aware of them.
+
+13
+00:00:31.005 --> 00:00:35.005
+Now, let's go over the 10 top pitfalls and limitations.
+
+14
+00:00:35.005 --> 00:00:40.000
+Number one is an oversimplified view of your objective.
+
+15
+00:00:40.000 --> 00:00:44.001
+As we discussed, the most important thing for any project,
+
+16
+00:00:44.001 --> 00:00:46.002
+especially in AI projects,
+
+17
+00:00:46.002 --> 00:00:48.006
+is setting the right objective and plan.
+
+18
+00:00:48.006 --> 00:00:51.007
+Your AI output will be as good as you set it up to be,
+
+19
+00:00:51.007 --> 00:00:53.004
+and an oversimplified view
+
+20
+00:00:53.004 --> 00:00:56.001
+of what your objective should be can easily lead
+
+21
+00:00:56.001 --> 00:01:00.001
+your algorithm and your company on the wrong path.
+
+22
+00:01:00.001 --> 00:01:03.004
+Number two is high computational costs.
+
+23
+00:01:03.004 --> 00:01:05.005
+Generating new content often requires
+
+24
+00:01:05.005 --> 00:01:08.007
+significant computing space, power, and time.
+
+25
+00:01:08.007 --> 00:01:09.006
+You might hear about it
+
+26
+00:01:09.006 --> 00:01:13.002
+as GPUs or computing power constraints.
+
+27
+00:01:13.002 --> 00:01:15.009
+GPU stands for graphic processing units,
+
+28
+00:01:15.009 --> 00:01:16.009
+and they're often used
+
+29
+00:01:16.009 --> 00:01:19.003
+for parallel processing in AI applications,
+
+30
+00:01:19.003 --> 00:01:22.002
+which can really speed up computation time.
+
+31
+00:01:22.002 --> 00:01:24.006
+However, if your AI system does not have
+
+32
+00:01:24.006 --> 00:01:27.004
+enough sufficient GPU resources,
+
+33
+00:01:27.004 --> 00:01:29.004
+this can limit the system's ability to handle
+
+34
+00:01:29.004 --> 00:01:33.001
+large data sets or generate results quickly.
+
+35
+00:01:33.001 --> 00:01:35.003
+Furthermore, as we learned before,
+
+36
+00:01:35.003 --> 00:01:37.000
+you might want to fine-tune the model
+
+37
+00:01:37.000 --> 00:01:41.002
+with a private instance of your own, and that increases cost
+
+38
+00:01:41.002 --> 00:01:44.006
+and can become prohibitive unless the ROI is there for you.
+
+39
+00:01:44.006 --> 00:01:47.004
+Number three is algorithm hallucination.
+
+40
+00:01:47.004 --> 00:01:52.004
+Unlike humans, AI doesn't know how to say, "I don't know."
+
+41
+00:01:52.004 --> 00:01:56.003
+In other words, it might make up things.
+
+42
+00:01:56.003 --> 00:01:58.009
+This is a serious limitation of AI
+
+43
+00:01:58.009 --> 00:02:02.001
+and can occur primarily when the algorithm trying to overfit
+
+44
+00:02:02.001 --> 00:02:05.004
+on a small or biased data set, which results
+
+45
+00:02:05.004 --> 00:02:07.005
+in generating outputs that are not representative
+
+46
+00:02:07.005 --> 00:02:09.000
+of the real world.
+
+47
+00:02:09.000 --> 00:02:12.003
+It's key that you treat AI as a source of input,
+
+48
+00:02:12.003 --> 00:02:14.002
+not a source of truth.
+
+49
+00:02:14.002 --> 00:02:18.003
+In case AI is directly interacting with users or customers,
+
+50
+00:02:18.003 --> 00:02:20.005
+ensure that you have the guardrails in place
+
+51
+00:02:20.005 --> 00:02:23.000
+to avoid unintended consequences.
+
+52
+00:02:23.000 --> 00:02:25.005
+Number four is staleness.
+
+53
+00:02:25.005 --> 00:02:29.001
+Generative models are susceptible to stale knowledge.
+
+54
+00:02:29.001 --> 00:02:31.005
+In other words, the agent of systems developed
+
+55
+00:02:31.005 --> 00:02:34.004
+can be limited by the data they have been trained on.
+
+56
+00:02:34.004 --> 00:02:37.005
+This has implications for long-term effectiveness,
+
+57
+00:02:37.005 --> 00:02:39.004
+as they might not be able to keep pace
+
+58
+00:02:39.004 --> 00:02:42.003
+with fast-changing contexts or environments.
+
+59
+00:02:42.003 --> 00:02:44.007
+Number five is restrictiveness.
+
+60
+00:02:44.007 --> 00:02:46.008
+Generative AI models do not do well
+
+61
+00:02:46.008 --> 00:02:49.001
+when it comes to access to basic information,
+
+62
+00:02:49.001 --> 00:02:53.006
+such as telling the date or doing basic math calculations.
+
+63
+00:02:53.006 --> 00:02:55.007
+Many algorithms are designed to work with text
+
+64
+00:02:55.007 --> 00:02:58.009
+or image data, and that could limit the scope and capability
+
+65
+00:02:58.009 --> 00:03:00.006
+of those systems.
+
+66
+00:03:00.006 --> 00:03:03.003
+Number six is interpretability.
+
+67
+00:03:03.003 --> 00:03:06.008
+Many AI models tend to be black box systems,
+
+68
+00:03:06.008 --> 00:03:09.006
+meaning it can be difficult to understand why
+
+69
+00:03:09.006 --> 00:03:12.003
+they generate a given output.
+
+70
+00:03:12.003 --> 00:03:14.003
+This is problematic when trying to effectively
+
+71
+00:03:14.003 --> 00:03:18.001
+diagnose errors or improve model performance.
+
+72
+00:03:18.001 --> 00:03:20.009
+Number seven is token constraints.
+
+73
+00:03:20.009 --> 00:03:22.004
+A token refers to a unit
+
+74
+00:03:22.004 --> 00:03:25.006
+that the generative AI system is able to process
+
+75
+00:03:25.006 --> 00:03:27.003
+at one time.
+
+76
+00:03:27.003 --> 00:03:29.004
+It puts a limit on the amount
+
+77
+00:03:29.004 --> 00:03:32.002
+of text that the system is able to accommodate,
+
+78
+00:03:32.002 --> 00:03:36.003
+whether as input to the system or output out of the system.
+
+79
+00:03:36.003 --> 00:03:40.004
+The amount of input is critical for success.
+
+80
+00:03:40.004 --> 00:03:42.002
+The more you can bring nuanced
+
+81
+00:03:42.002 --> 00:03:45.001
+and unique input into your prompt,
+
+82
+00:03:45.001 --> 00:03:48.001
+the better and more accurate your solution could be.
+
+83
+00:03:48.001 --> 00:03:49.007
+Token constraints can limit the types
+
+84
+00:03:49.007 --> 00:03:52.005
+of data that can be used for training
+
+85
+00:03:52.005 --> 00:03:56.005
+or the scope of problems that the system can address.
+
+86
+00:03:56.005 --> 00:03:59.009
+Number eight is the ability to keep state.
+
+87
+00:03:59.009 --> 00:04:03.001
+Keeping state or memory is essentially the ability
+
+88
+00:04:03.001 --> 00:04:06.000
+to remember past inputs and build off them
+
+89
+00:04:06.000 --> 00:04:08.002
+in order to generate outputs.
+
+90
+00:04:08.002 --> 00:04:12.004
+Think of it as working memory, short term or long term.
+
+91
+00:04:12.004 --> 00:04:16.003
+For some AI applications, this ability is crucial.
+
+92
+00:04:16.003 --> 00:04:19.007
+For example, a natural language generation algorithm
+
+93
+00:04:19.007 --> 00:04:22.009
+might need to remember the context of the conversation
+
+94
+00:04:22.009 --> 00:04:24.001
+so it could generate a response
+
+95
+00:04:24.001 --> 00:04:26.000
+that may actually make sense.
+
+96
+00:04:26.000 --> 00:04:29.001
+Similarly, a generative art or music algorithm
+
+97
+00:04:29.001 --> 00:04:31.004
+might need to remember previous brushstrokes
+
+98
+00:04:31.004 --> 00:04:34.008
+or notes in order to create a cohesive work.
+
+99
+00:04:34.008 --> 00:04:36.000
+Without this capability,
+
+100
+00:04:36.000 --> 00:04:40.005
+AI could struggle to generate accurate or coherent outputs.
+
+101
+00:04:40.005 --> 00:04:43.008
+Number nine is data quality and availability.
+
+102
+00:04:43.008 --> 00:04:45.003
+We already discussed the importance
+
+103
+00:04:45.003 --> 00:04:49.000
+of feeding your AI with high-scale and high-quality data.
+
+104
+00:04:49.000 --> 00:04:51.008
+If your algorithm is learning from bad, low-scale,
+
+105
+00:04:51.008 --> 00:04:54.008
+or biased data, the outputs it generates
+
+106
+00:04:54.008 --> 00:04:57.008
+will be similarly biased or poor quality.
+
+107
+00:04:57.008 --> 00:05:01.002
+Number 10 is about ethical concerns.
+
+108
+00:05:01.002 --> 00:05:03.005
+AI can be used to create fake content
+
+109
+00:05:03.005 --> 00:05:05.005
+or could be used for malicious purposes,
+
+110
+00:05:05.005 --> 00:05:09.009
+such as creating disinformation or deep fake videos.
+
+111
+00:05:09.009 --> 00:05:12.009
+It could also create copyright violations by copying content
+
+112
+00:05:12.009 --> 00:05:15.005
+when it's not able to create something new.
+
+113
+00:05:15.005 --> 00:05:17.001
+This especially happens when it's trained
+
+114
+00:05:17.001 --> 00:05:19.003
+on a very small sample size.
+
+115
+00:05:19.003 --> 00:05:21.006
+These issues and more raise a range
+
+116
+00:05:21.006 --> 00:05:24.009
+of ethical concerns that need to be considered.
+
+117
+00:05:24.009 --> 00:05:28.000
+Data quality and ethical concerns are so important
+
+118
+00:05:28.000 --> 00:05:30.005
+that I wanted to dedicate a separate video for them.
+
+119
+00:05:30.005 --> 00:05:32.001
+So let's talk about that next.
